@@ -39,6 +39,9 @@ Ensure you have the following installed on your system:
 
 ## Usage
 1. Start the application.
+
+
+
 2. Navigate through the interface to add, update, delete, or view employee records.
 3. Ensure database connectivity for smooth functioning.
 
