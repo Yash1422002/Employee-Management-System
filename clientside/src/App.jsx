@@ -15,6 +15,7 @@ import EmployeeLogin from "./components/EmployeeLogin";
 import EmployeeDetail from "./components/EmployeeDetail";
 import PrivateRoute from "./components/PrivateRoute";
 
+
 function App() {
   return (
     <>
